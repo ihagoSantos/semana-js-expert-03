@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@heroku-cli/plugin-buildpacks": "^7.47.13",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
